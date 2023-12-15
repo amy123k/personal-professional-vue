@@ -1,0 +1,19 @@
+{
+    "semester": [
+        {
+            "number": "1",
+            "classCount": "4",
+            "topics": "IT hardware introduction, IT support, IT software introduction, and Microsoft applications"
+        },
+        {
+            "number": "2",
+            "classCount": "5",
+            "topics": "business communication, C# programming, database design, Visual Basic programming, and web development"
+        },
+        {
+            "number": "3",
+            "classCount": "4",
+            "topics": "dynamic web applications, JAVA programming, PHP and MySQL, and SQL Server"
+        }
+    ]
+}
